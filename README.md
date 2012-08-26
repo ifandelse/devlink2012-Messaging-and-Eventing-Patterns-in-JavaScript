@@ -5,7 +5,7 @@ This talk discusses event delegation, message passing & the difference between b
 JavaScript environments (both browser and node, etc.).
 
 ### Important Attribution Note:
-The pattern diagrams, names and descriptions that appear in this slide deck have been graciously made available/possible by Gregor Hohpe and Bobby Woolf - authors of "[Enterprise Integration Patterns](http://www.eaipatterns.com/index.html)" (patters are available under the Creative Commons Attribution license).  Usage of Hohpe and Woolf's material does not, obviously, mean that they endorse my ideas (nor have they even seen this slide deck).  Translation: I am simply standing on the shoulders of giants - the real trail-blazers have richly rewarded those willing to learn from them.
+The pattern diagrams, names and descriptions that appear ***in the messaging section*** of this slide deck have been graciously made available/possible by Gregor Hohpe and Bobby Woolf - authors of "[Enterprise Integration Patterns](http://www.eaipatterns.com/index.html)" (patters are available under the Creative Commons Attribution license).  Usage of Hohpe and Woolf's material does not, obviously, mean that they endorse my ideas (nor have they even seen this slide deck).  Translation: I am simply standing on the shoulders of giants - the real trail-blazers have richly rewarded those willing to learn from them.
 
 ### Usage/Modification
 You are free to use the content of this slide deck, given that you do so under the terms of the license and provide proper attribution, etc.
